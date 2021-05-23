@@ -1,0 +1,17 @@
+.messageCard {
+  width: max-content;
+  margin-bottom: 10px;
+  background-color: #e9e9eb !important;
+  text-align: left;
+  border-radius: 20px !important;
+}
+
+.messageUser {
+  margin-left: auto;
+  background-color: #0b81ff !important;
+  color: white !important;
+}
+
+.cardContent {
+  padding: 5px 10px !important;
+}

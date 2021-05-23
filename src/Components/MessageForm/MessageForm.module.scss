@@ -1,0 +1,20 @@
+.messageForm {
+  position: fixed;
+  bottom: 0;
+  padding: 20px;
+  background-color: #e9e9eb;
+  border-radius: 10px;
+  right: 0;
+  left: 0;
+  margin: 20px;
+}
+
+.formControl {
+  display: flex;
+  flex-direction: row !important;
+  width: 100%;
+}
+
+.inputField {
+  flex: 1 !important;
+}
