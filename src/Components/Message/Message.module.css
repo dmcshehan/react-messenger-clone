@@ -4,6 +4,7 @@
   background-color: #e9e9eb !important;
   text-align: left;
   border-radius: 20px !important;
+  max-width: 100%;
 }
 
 .messageUser {
